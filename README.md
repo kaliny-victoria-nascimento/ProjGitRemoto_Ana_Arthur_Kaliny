@@ -1,2 +1,2 @@
 # ProjGitRemoto_Ana_Arthur_Kaliny
-Checkpoint 2 em trio.
+Checkpoint - Ana Júlia, Arthur e Kaliny.
